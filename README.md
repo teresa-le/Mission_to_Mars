@@ -15,7 +15,7 @@ Python, Web Scraping
 ## Actions
 For this project, the first step involved scraping data from the Mars Temperature Data Site. To achieve this, I utilized Splinter for automated browsing to visit the website and BeautifulSoup to extract data from the HTML table. After obtaining the data, I assembled it into a Pandas DataFrame, ensuring appropriate column names were used.
 
-With the data prepared, I proceeded to analyze various aspects of Martian weather patterns. This included determining the number of months present on Mars and calculating the Martian days' worth of data available in the dataset. I also delved into the coldest and warmest months based on minimum daily temperatures, as well as examined the months with the lowest and highest atmospheric pressure.
+With the data prepared, I proceeded to analyze various aspects of Martian weather patterns. This included determining the number of months present on Mars, calculating the Martian days' worth of data available in the dataset and analyzing the temperature & atmospheric pressure data.
 
 To better understand the relationship between terrestrial days and Martian years, I visualized the data by plotting bar charts for average temperatures and atmospheric pressure by month. Finally, I estimated the duration of a Martian year based on temperature fluctuations, revealing insights into the Martian calendar and its alignment with Earth time units.
 
