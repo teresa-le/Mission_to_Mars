@@ -21,4 +21,4 @@ To better understand the relationship between terrestrial days and Martian years
 
 ## Results 
 
-The coldest month on Mars, on average, is the third month, while the warmest is the eighth month. Additionally, atmospheric pressure was found to be lowest in the sixth month and highest in the ninth month. Base on the changes in temperature over time, a Martian year was estimated to be around 675 terrestrial days These findings improve our understanding of the environmental conditions of Mars. 
+The coldest month on Mars, on average, is the third month, while the warmest is the eighth month. Additionally, atmospheric pressure was found to be lowest in the sixth month and highest in the ninth month. Based on the changes in temperature over time, a Martian year is estimated to be around 675 terrestrial days. These findings improve our understanding of the environmental conditions of Mars. 
